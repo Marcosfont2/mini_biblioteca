@@ -1,0 +1,35 @@
+== ANTES (sem test_cobertura_extra.py) ==
+........................................................................ [ 70%]
+..............................                                           [100%]
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.12.3-final-0 ________________
+Name                       Stmts   Miss  Cover   Missing
+--------------------------------------------------------
+biblioteca/__init__.py         0      0   100%
+biblioteca/biblioteca.py      30      0   100%
+biblioteca/database.py         8      0   100%
+biblioteca/excecoes.py         6      0   100%
+biblioteca/livro.py           23      0   100%
+biblioteca/repository.py      57     10    82%   21, 26, 51-52, 57-58, 71-72, 98-103
+biblioteca/validators.py      24      0   100%
+--------------------------------------------------------
+TOTAL                        148     10    93%
+102 passed in 0.26s
+
+== DEPOIS (suíte completa) ==
+........................................................................ [ 64%]
+.......................................                                  [100%]
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.12.3-final-0 ________________
+Name                       Stmts   Miss  Cover   Missing
+--------------------------------------------------------
+biblioteca/__init__.py         0      0   100%
+biblioteca/biblioteca.py      30      0   100%
+biblioteca/database.py         8      0   100%
+biblioteca/excecoes.py         6      0   100%
+biblioteca/livro.py           23      0   100%
+biblioteca/repository.py      57      0   100%
+biblioteca/validators.py      24      0   100%
+--------------------------------------------------------
+TOTAL                        148      0   100%
+111 passed in 0.25s
