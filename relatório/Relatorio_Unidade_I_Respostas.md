@@ -5,9 +5,9 @@
 |---|---|
 | **Disciplina** | Testes de Software I |
 | **Curso** | Ciência da Computação |
-| **Aluno(a)** | _(preencher)_ |
-| **Matrícula** | _(preencher)_ |
-| **Data de entrega** | _(preencher)_ |
+| **Aluno(a)** | Marcos Antônio Fontes Leite |
+| **Matrícula** | 20230019430 |
+| **Data de entrega** | 13/10/26 |
 
 > Código-fonte, testes e instruções de execução estão na pasta `mini_biblioteca/` (arquivo zip entregue junto). Este documento traz apenas as respostas, as saídas de êxito esperadas e as explicações.
 
